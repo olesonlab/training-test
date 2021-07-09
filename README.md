@@ -8,3 +8,5 @@ List of things I've learned
 * not to be scared of R
 * RMarkdown
 * a bit of GitHub
+
+Other things I want to learn...
